@@ -428,7 +428,7 @@ Lütfen şifreni değiştirmek için alttaki linke tıkla veya linki kopyalayıp
 	"tl" => "Tagalog",
 	"tn" => "Setswana",
 	"to" => "Tonga",
-	"tr" => "Turkish",
+	"tr" => "Türkçe",
 	"ts" => "Tsonga",
 	"tt" => "Tatar",
 	"tw" => "Twi",
